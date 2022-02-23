@@ -1,0 +1,7 @@
+This is the output file wriiten by python code.
+
+Michael Jordan
+Kobe Bryant
+Steve Nash
+Chris Paul
+Lebron James
